@@ -1,0 +1,14 @@
+.github/ {{git_name}}
+.scripts/ {{git_name}}
+.vscode/ {{git_name}}
+.zed/ {{git_name}}
+
+AUTHORS  {{git_name}}
+CONTRIBUTORS  {{git_name}}
+CODEOWNERS  {{git_name}}
+LICENSE  {{git_name}}
+
+
+.gitignore {{git_name}}
+.pre-commit-config.yaml {{git_name}}
+Makefile {{git_name}}

@@ -1,0 +1,12 @@
+---
+title: "Talk Title"
+description: "Talk Description"
+date: "2023-01-01"
+location: "Location"
+authors:
+  - name: "Author Name"
+    email: "author@example.com"
+tasks:
+  - name: "task name"
+    type: "type 1a"
+    description: "body value"
