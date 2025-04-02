@@ -7,8 +7,10 @@ These talks take the form of a sli.dev slidedeck, and can be permanently and sta
 
 ### Sli.Dev Common Commands
 
-`slidev` - Start the dev server. See the dev command.
-`slidev export` - Export the slides to PDF, PPTX, or PNGs. See 📖 Exporting📖 Exporting.
-`slidev build` - Build the slides as a static web application. See 📖 Hosting📖 Hosting.
-`slidev format` - Format the slides. See the format command.
-`slidev --help` - Show the help message.
+| Command         | Description                                                           |
+|-----------------|-----------------------------------------------------------------------|
+| `slidev`        | Start the dev server. See the dev command.                            |
+| `slidev export` | Export the slides to PDF, PPTX, or PNGs. See 📖 Exporting📖 Exporting.  |
+| `slidev build`  | Build the slides as a static web application. See 📖 Hosting📖 Hosting. |
+| `slidev format` | Format the slides. See the format command.                            |
+| `slidev --help` | Show the help message.                                                |
